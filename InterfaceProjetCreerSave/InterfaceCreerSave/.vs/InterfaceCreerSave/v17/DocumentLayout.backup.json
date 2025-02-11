@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetCreerSave\\InterfaceCreerSave\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3308B0A6-D47E-4A9C-971D-F6B008D5CD13}|InterfaceCreerSave\\InterfaceCreerSave.csproj|c:\\users\\leosc\\desktop\\projects\\ecole\\interface projet\\interfaceprojetcreersave\\interfacecreersave\\interfacecreersave\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3308B0A6-D47E-4A9C-971D-F6B008D5CD13}|InterfaceCreerSave\\InterfaceCreerSave.csproj|solutionrelative:interfacecreersave\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3308B0A6-D47E-4A9C-971D-F6B008D5CD13}|InterfaceCreerSave\\InterfaceCreerSave.csproj|c:\\users\\leosc\\desktop\\projects\\ecole\\interface projet\\interfaceprojetcreersave\\interfacecreersave\\interfacecreersave\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3308B0A6-D47E-4A9C-971D-F6B008D5CD13}|InterfaceCreerSave\\InterfaceCreerSave.csproj|solutionrelative:interfacecreersave\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,19 +23,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetCreerSave\\InterfaceCreerSave\\InterfaceCreerSave\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "InterfaceCreerSave\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetCreerSave\\InterfaceCreerSave\\InterfaceCreerSave\\MainWindow.xaml.cs",
-              "RelativeToolTip": "InterfaceCreerSave\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:15:47.817Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetCreerSave\\InterfaceCreerSave\\InterfaceCreerSave\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InterfaceCreerSave\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetCreerSave\\InterfaceCreerSave\\InterfaceCreerSave\\MainWindow.xaml",
+              "RelativeToolTip": "InterfaceCreerSave\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T16:15:56.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetCreerSave\\InterfaceCreerSave\\InterfaceCreerSave\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InterfaceCreerSave\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetCreerSave\\InterfaceCreerSave\\InterfaceCreerSave\\MainWindow.xaml.cs",
+              "RelativeToolTip": "InterfaceCreerSave\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:15:47.817Z",
+              "EditorCaption": ""
             }
           ]
         }
