@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetMENU\\",
+  "WorkspaceRootPath": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceProjetMENU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|c:\\users\\leosc\\desktop\\projects\\ecole\\interface projet\\interfaceprojetmenu\\interfaceprojetnew\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|solutionrelative:interfaceprojetnew\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|c:\\users\\leosc\\desktop\\projects\\ecole\\interface projet\\interfaceprojetmenu\\interfaceprojetnew\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|c:\\users\\leosc_1c7hxom\\desktop\\projects\\ecole\\interfaceprojet\\interfaceprojetmenu\\interfaceprojetnew\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|solutionrelative:interfaceprojetnew\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|c:\\users\\leosc\\desktop\\projects\\ecole\\interface projet\\interfaceprojetmenu\\interfaceprojetnew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|c:\\users\\leosc_1c7hxom\\desktop\\projects\\ecole\\interfaceprojet\\interfaceprojetmenu\\interfaceprojetnew\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|solutionrelative:interfaceprojetnew\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|c:\\users\\leosc_1c7hxom\\desktop\\projects\\ecole\\interfaceprojet\\interfaceprojetmenu\\interfaceprojetnew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{750E1B82-DE62-43EC-A1F1-CCFA94A5AC3E}|InterfaceProjetNew\\InterfaceProjetNew.csproj|solutionrelative:interfaceprojetnew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -22,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InterfaceProjetNew\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml",
+              "RelativeToolTip": "InterfaceProjetNew\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T21:08:19.385Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
@@ -32,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\App.xaml",
               "RelativeDocumentMoniker": "InterfaceProjetNew\\App.xaml",
-              "ToolTip": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\App.xaml",
+              "ToolTip": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\App.xaml",
               "RelativeToolTip": "InterfaceProjetNew\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-11T14:54:29.971Z",
@@ -43,22 +55,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "InterfaceProjetNew\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml",
-              "RelativeToolTip": "InterfaceProjetNew\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-11T11:13:56.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "InterfaceProjetNew\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceProjetMENU\\InterfaceProjetNew\\MainWindow.xaml.cs",
               "RelativeToolTip": "InterfaceProjetNew\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,10 @@
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\InterfaceLunchSave_MarkupCompile.cache
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\InterfaceLunchSave.g.resources
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\InterfaceLunchSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\InterfaceLunchSave.AssemblyInfoInputs.cache
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\InterfaceLunchSave.AssemblyInfo.cs
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\InterfaceLunchSave.csproj.CoreCompileInputs.cache
+C:\Users\leosc_1c7hxom\Desktop\Projects\Ecole\InterfacePROJET\InterfaceLunchSave\InterfaceLunchSave\obj\Debug\net8.0-windows\InterfaceLunchSave.sourcelink.json

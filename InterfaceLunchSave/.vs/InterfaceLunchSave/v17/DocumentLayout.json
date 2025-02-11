@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceLunchSave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43329F7F-628E-453F-A721-F1CDDAE0729B}|InterfaceLunchSave\\InterfaceLunchSave.csproj|c:\\users\\leosc_1c7hxom\\desktop\\projects\\ecole\\interfaceprojet\\interfacelunchsave\\interfacelunchsave\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43329F7F-628E-453F-A721-F1CDDAE0729B}|InterfaceLunchSave\\InterfaceLunchSave.csproj|solutionrelative:interfacelunchsave\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43329F7F-628E-453F-A721-F1CDDAE0729B}|InterfaceLunchSave\\InterfaceLunchSave.csproj|c:\\users\\leosc_1c7hxom\\desktop\\projects\\ecole\\interfaceprojet\\interfacelunchsave\\interfacelunchsave\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43329F7F-628E-453F-A721-F1CDDAE0729B}|InterfaceLunchSave\\InterfaceLunchSave.csproj|solutionrelative:interfacelunchsave\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceLunchSave\\InterfaceLunchSave\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InterfaceLunchSave\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceLunchSave\\InterfaceLunchSave\\MainWindow.xaml",
+              "RelativeToolTip": "InterfaceLunchSave\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T21:31:54.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceLunchSave\\InterfaceLunchSave\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InterfaceLunchSave\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leosc_1c7hxom\\Desktop\\Projects\\Ecole\\InterfacePROJET\\InterfaceLunchSave\\InterfaceLunchSave\\MainWindow.xaml.cs",
+              "RelativeToolTip": "InterfaceLunchSave\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:31:53.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceLogs\\InterfaceLogs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75D147A3-32B1-461C-8130-9CBA3B097075}|InterfaceLogs\\InterfaceLogs.csproj|c:\\users\\leosc\\desktop\\projects\\ecole\\interface projet\\interfacelogs\\interfacelogs\\interfacelogs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75D147A3-32B1-461C-8130-9CBA3B097075}|InterfaceLogs\\InterfaceLogs.csproj|solutionrelative:interfacelogs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75D147A3-32B1-461C-8130-9CBA3B097075}|InterfaceLogs\\InterfaceLogs.csproj|c:\\users\\leosc\\desktop\\projects\\ecole\\interface projet\\interfacelogs\\interfacelogs\\interfacelogs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D147A3-32B1-461C-8130-9CBA3B097075}|InterfaceLogs\\InterfaceLogs.csproj|solutionrelative:interfacelogs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceLogs\\InterfaceLogs\\InterfaceLogs\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InterfaceLogs\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceLogs\\InterfaceLogs\\InterfaceLogs\\MainWindow.xaml",
+              "RelativeToolTip": "InterfaceLogs\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T16:17:07.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\leosc\\Desktop\\Projects\\Ecole\\INTERFACE PROJET\\InterfaceLogs\\InterfaceLogs\\InterfaceLogs\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "InterfaceLogs\\MainWindow.xaml.cs",
