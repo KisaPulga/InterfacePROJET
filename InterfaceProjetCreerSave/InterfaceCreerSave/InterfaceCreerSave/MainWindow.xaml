@@ -46,17 +46,17 @@
 
         <!-- Page Content -->
         <Label x:Name="Label_Save_Name" Content="Nom de la sauvegarde" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="28" Margin="296,218,0,0" VerticalAlignment="Top" Width="191" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <Label x:Name="Label_Save_Name_Input" Content="NOM DU FICHIER" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="280,245,0,0" VerticalAlignment="Top" Width="378" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="Label_Save_Name_Input" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="280,245,0,0" VerticalAlignment="Top" Width="378" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
 
         <Label x:Name="Label_Origin_Path" Content="Chemin source" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="28" Margin="297,304,0,0" VerticalAlignment="Top" Width="190" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <Label x:Name="Label_Origin_Path_Input" Content="CHEMIN DU FICHIER" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="281,330,0,0" VerticalAlignment="Top" Width="296" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="Label_Origin_Path_Input" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="281,330,0,0" VerticalAlignment="Top" Width="296" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
         <Button x:Name="Button_Origin_Path" Content="Fichier" BorderBrush="Black" BorderThickness="1" Click="Button_SelectFile_Click" Margin="576,330,315,301" Background="#FFB5B5B5"/>
 
         <Label x:Name="Label_Target_Path" Content="Chemin cible" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="28" Margin="293,394,0,0" VerticalAlignment="Top" Width="190" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <Label x:Name="Label_Target_Path_Input" Content="CHEMIN DU FICHIER" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="281,421,0,0" VerticalAlignment="Top" Width="296" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="Label_Target_Path_Input" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="281,421,0,0" VerticalAlignment="Top" Width="296" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
         <Button x:Name="Button_Target_Path" Content="Fichier" BorderBrush="Black" BorderThickness="1" Click="Button_SelectFile_Click" Margin="576,421,315,210" Background="#FFB5B5B5"/>
 
-        <CheckBox x:Name="Label_Checkbox_1" Content="Sauvegarde complète" 
+        <RadioButton x:Name="Label_Checkbox_1" Content="Sauvegarde complète" 
           HorizontalAlignment="Center" 
           Height="15" 
           Margin="0,479,0,0" 
@@ -64,7 +64,7 @@
           Width="208" 
           Checked="CheckBox_Checked" IsChecked="True"/>
 
-        <CheckBox x:Name="Label_Checkbox_2" Content="Sauvegarde différentielle" 
+        <RadioButton x:Name="Label_Checkbox_2" Content="Sauvegarde différentielle" 
           HorizontalAlignment="Center" 
           Height="16" 
           Margin="0,499,0,0" 

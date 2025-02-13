@@ -17,8 +17,6 @@
     </Window.Resources>
 
     <Grid>
-
-
         <!--- CONTENU DE LA PAGE-->
 
         <!-- HEADER -->
@@ -45,9 +43,17 @@
         <Button x:Name="Labbel_Button_Menu" Content="MENU" HorizontalAlignment="Left" Height="40" Margin="10,120,0,0" VerticalAlignment="Top" Width="96" FontSize="16" FontWeight="Bold" Click="Button_Menu_Click"/>
 
         <!-- Page Content -->
-        <TextBox x:Name="Text_Informations" Width="299" Height="291" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="Black" BorderThickness="2" Margin="135,256,0,0"/>
-        <Label x:Name="Label_Save_Name" Content="Numéros sauvegardes" BorderBrush="Black" BorderThickness="1" Height="28" Margin="602,281,181,0" VerticalAlignment="Top" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <DataGrid Margin="90,229,507,126"
+                  BorderBrush="Black"
+                  BorderThickness="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="Save_Column1" Header="Numéro" Width="*" />
+                <DataGridTextColumn x:Name="Save_Column2" Header="Name" Width="3*" />
+            </DataGrid.Columns>
+        </DataGrid>
 
+        <Label x:Name="Label_Save_Name" Content="Numéros sauvegardes" BorderBrush="Black" BorderThickness="1" Height="28" Margin="602,281,181,0" VerticalAlignment="Top" Background="#FFB5B5B5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        
         <TextBox x:Name="Input_Number_Save" Width="240" Height="33" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="Black" BorderThickness="1" Margin="577,308,0,0"/>
         <Button x:Name="Labbel_Button_Save1" Content="Sauvegarde Partielle" HorizontalAlignment="Left" Height="40" Margin="561,362,0,0" VerticalAlignment="Top" Width="272" FontSize="16" FontWeight="Bold" Click="Button_Menu_Click"/>
         <Button x:Name="Labbel_Button_Save2" Content="Sauvegarde Globale" HorizontalAlignment="Left" Height="40" Margin="561,460,0,0" VerticalAlignment="Top" Width="272" FontSize="16" FontWeight="Bold" Click="Button_Menu_Click"/>

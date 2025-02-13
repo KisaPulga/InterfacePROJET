@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceLunchSave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb978a059474b4d5546cd6b710a0a065b77107a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbbcafcc15ed925fe2dd19658cd93c6ded1e6cb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceLunchSave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceLunchSave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

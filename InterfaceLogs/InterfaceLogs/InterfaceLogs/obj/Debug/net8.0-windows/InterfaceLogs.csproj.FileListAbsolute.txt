@@ -1,0 +1,10 @@
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\InterfaceLogs_MarkupCompile.cache
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\InterfaceLogs.g.resources
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\InterfaceLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\InterfaceLogs.AssemblyInfoInputs.cache
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\InterfaceLogs.AssemblyInfo.cs
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\InterfaceLogs.csproj.CoreCompileInputs.cache
+C:\Users\leosc\Desktop\Projects\Ecole\INTERFACE PROJET\InterfaceLogs\InterfaceLogs\InterfaceLogs\obj\Debug\net8.0-windows\InterfaceLogs.sourcelink.json
